@@ -90,6 +90,7 @@ The classic 99 problems, with solutions in OCaml.
 
 * [BigArray](bigarray.md):
 A high-performance array for interacting with non-OCaml programs.
+* [Composable Error Handling in OCaml](https://keleshev.com/composable-error-handling-in-ocaml)
 * [ocamlunix](https://ocaml.github.io/ocamlunix/ocamlunix.html):
 Great introduction to systems programming in OCaml
 * [Higher-Rank Polymorphism in OCaml](http://devmusings.legiasoft.com/blog/2008/05/23/higher-rank_polymorphism_in_ocaml):
